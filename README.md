@@ -98,3 +98,5 @@ Bar chart showing the most streamed songs like:
 * Most successful tracks are concentrated in the **post-2015** digital era
 
 ---
+📷 Sample Preview
+(https://github.com/y0gesh6908/spotify_project/blob/main/Screenshot%202025-07-30%20233030.png)
